@@ -1,0 +1,13 @@
+1. to install vite: npm create vite@latest
+2. after that set the project name
+3. select framework React
+4. select variant Typescript
+5. now cd project_name
+6. npm install
+7. npm run dev (to spin the vite)
+8. npm install styled-components
+9. in package.json add this: {
+                              "resolutions": {
+                                "styled-components": "^5"
+                               }
+                              }
